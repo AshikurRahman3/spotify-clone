@@ -7,7 +7,7 @@ A feature-rich Spotify-inspired music streaming application with a sleek interfa
 ---
 
 ## 🎥 Demo Video
-![Demo Preview](./screenshots/spotify_clone.gif)
+![Demo Preview](./screenshots/spotify_clone_small.gif)
 
 ---
 
