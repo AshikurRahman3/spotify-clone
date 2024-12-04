@@ -2,7 +2,7 @@
 
 A feature-rich Spotify-inspired music streaming application with a sleek interface and enhanced functionality. Built with modern web technologies, this app delivers a seamless music experience, including dynamic pages for searching, lyrics browsing, playlist creation, and managing liked songs.  
 
-🚀 **Live Demo**: [Spotify Clone](https://spotify-clone-1s.netlify.app/)
+🚀 **Live Demo**: [https://spotify-clone-1s.netlify.app/](https://spotify-clone-1s.netlify.app/)
 
 ---
 
