@@ -25,5 +25,4 @@ yarn-error.log*
 # Local Netlify folder
 .netlify
 
-old_readme.md
-CONTRIBUTING.md
+
