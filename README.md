@@ -7,10 +7,9 @@ A feature-rich Spotify-inspired music streaming application with a sleek interfa
 ---
 
 ## 🎥 Demo Video
-<video controls autoplay loop>
-  <source src="./screenshots/spotify_clone.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Demo Preview](./screenshots/spotify_clone.gif)
+
+---
 
 
 ## ✨ Features
